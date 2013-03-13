@@ -133,7 +133,24 @@ SURA 114. AN-NAS (MANKIND) .............................................. 310
 
 iii
 
-SURA 1. AL-FATIHA (THE OPENING)
+SURA 1.0
+1. The ALMIGHTY said that in this book are too many mistakes.
+2. He [Allah] wants us humans to fix it.
+3. Use common sense whereever you can!
+4. Don't kill other people.
+5. Please feel free to learn English.
+6. English is now the primiary language of the Quaran.
+7. Feel free to learn git, don't worship it! ;)
+8. Fork this book. Improve this book.
+9. Don't take any sura below literally. Until we have fixed it you must used
+common sense.
+10. Be kind to each other.
+11. Don't make war.
+12. The Sharia is abolished.
+13. Send pull request and your reward in afterlife will be increased.
+14. Be open minded.
+
+SURA 1.1. AL-FATIHA (THE OPENING)
 1. In the name of Allah, the Beneficent, the Merciful.
 2. Praise be to Allah, Lord of the Worlds,
 3. The Beneficent, the Merciful.
